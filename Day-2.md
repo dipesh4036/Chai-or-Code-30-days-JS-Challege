@@ -44,7 +44,7 @@ result1 -= num1;
 console.log(result1); // This will now output 10 (20 - 10)
 ```
 
-## Activity : 3 COmparison Operators
+## Activity : 3 Comparison Operators
 
 Task : 8 Write a proram to compare two numbers using > and **<** and **>**log the result to the console.
 
